@@ -14,3 +14,4 @@ The following are available plugins for BizApp Pay
 6. OpenCart version 1.5 ,2.0-2.1, 2.2, 2.3, and 3.0	
 7. PrestaShop version 1.6 and 1.7	
 8. WHCMS - Web Hosting Billing & Automation Platform
+9. Wordpress Woocommerce (also availble on wordpress.org plugin marketplace)
